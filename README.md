@@ -44,4 +44,5 @@ After you have your dependencies installed, run the following commands:
 Then, you can check out the following URLs at your choice:
 
 http://127.0.0.1:5000
+
 http://127.0.0.1:5000//movies/ratings/
